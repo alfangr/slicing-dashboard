@@ -1,0 +1,19 @@
+<svg width="227" height="227" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g stroke-width="0" filter="url(#svg_9_blur)" id="svg_9">
+   <rect stroke-width="0" id="svg_3" height="227" width="227" y="0" x="0" stroke="#000" fill="#26b9b1"/>
+   <g stroke="null" id="svg_8">
+    <ellipse stroke="#000" ry="15.59734" rx="15.59734" id="svg_4" cy="92.59293" cx="91.59734" stroke-width="0" fill="#ffffff"/>
+    <ellipse stroke="#000" ry="15.59734" rx="15.59734" id="svg_5" cy="92.59293" cx="135.40265" stroke-width="0" fill="#ffffff"/>
+    <ellipse stroke="#000" ry="15.59734" rx="15.59734" id="svg_6" cy="134.40709" cx="135.40265" stroke-width="0" fill="#ffffff"/>
+    <ellipse stroke="#000" ry="15.59734" rx="15.59734" id="svg_7" cy="134.40709" cx="91.59734" stroke-width="0" fill="#ffffff"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <filter id="svg_9_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+</svg>
